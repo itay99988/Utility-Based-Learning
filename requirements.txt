@@ -1,0 +1,5 @@
+automata-lib
+numpy
+graphviz
+sklearn
+tqdm
